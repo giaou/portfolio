@@ -9,3 +9,5 @@ The website is written by PHP, HTML, and SQL. To set up the database, developers
 3.Adding items to sell
 4.Buying items from others
 5.Looking at the transactions history
+
+This directory includes source code, and illustrated images
